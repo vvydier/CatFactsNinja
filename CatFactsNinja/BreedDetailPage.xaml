@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<ContentPage
+    xmlns="http://xamarin.com/schemas/2014/forms"
+    xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+    x:Class="CatFactsNinja.BreedDetailPage"
+    Title="Breed Details">
+  <ContentPage.Content>
+                <StackLayout HorizontalOptions="Center" VerticalOptions="Center">
+                        <StackLayout Orientation="Horizontal">
+                                <Label Text="Breed:" FontSize="Large" HorizontalOptions="FillAndExpand" />
+                                <Label Text="{Binding Breed}" FontSize="Large" FontAttributes="Bold" />
+                        </StackLayout>
+                        <StackLayout Orientation="Horizontal">
+                                <Label Text="Country:" FontSize="Medium" HorizontalOptions="FillAndExpand" />
+                                <Label Text="{Binding Country}" FontSize="Medium" FontAttributes="Bold" />
+                        </StackLayout>
+                        <StackLayout Orientation="Horizontal">
+                                <Label Text="Origin:" FontSize="Medium" HorizontalOptions="FillAndExpand" />
+                                <Label Text="{Binding Origin}" FontSize="Medium" FontAttributes="Bold" />
+                        </StackLayout>
+                        <StackLayout Orientation="Horizontal">
+                                <Label Text="Coat:" FontSize="Medium" HorizontalOptions="FillAndExpand" />
+                                <Label Text="{Binding Coat}" FontSize="Medium" FontAttributes="Bold" />
+                        </StackLayout>
+                        <StackLayout Orientation="Horizontal">
+                                <Label Text="Pattern:" FontSize="Medium" HorizontalOptions="FillAndExpand" />
+                                <Label Text="{Binding Pattern}" FontSize="Medium" FontAttributes="Bold" />
+                        </StackLayout>
+                        <Button x:Name="navigateButton" Text="Previous Page" Clicked="OnNavigateButtonClicked" />
+                </StackLayout>
+        </ContentPage.Content>
+ 
+</ContentPage>
