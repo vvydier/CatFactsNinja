@@ -1,0 +1,14 @@
+/Users/vvydier/Projects/Xamarin/CatFactsNinja/CatFactsNinja/obj/Debug/netstandard2.0/CatFactsNinja.csproj.AssemblyReference.cache
+/Users/vvydier/Projects/Xamarin/CatFactsNinja/CatFactsNinja/obj/Debug/netstandard2.0/App.xaml.g.cs
+/Users/vvydier/Projects/Xamarin/CatFactsNinja/CatFactsNinja/obj/Debug/netstandard2.0/MainPage.xaml.g.cs
+/Users/vvydier/Projects/Xamarin/CatFactsNinja/CatFactsNinja/obj/Debug/netstandard2.0/CatFactsNinja.AssemblyInfoInputs.cache
+/Users/vvydier/Projects/Xamarin/CatFactsNinja/CatFactsNinja/obj/Debug/netstandard2.0/CatFactsNinja.AssemblyInfo.cs
+/Users/vvydier/Projects/Xamarin/CatFactsNinja/CatFactsNinja/obj/Debug/netstandard2.0/CatFactsNinja.csproj.CoreCompileInputs.cache
+/Users/vvydier/Projects/Xamarin/CatFactsNinja/CatFactsNinja/bin/Debug/netstandard2.0/CatFactsNinja.deps.json
+/Users/vvydier/Projects/Xamarin/CatFactsNinja/CatFactsNinja/bin/Debug/netstandard2.0/CatFactsNinja.dll
+/Users/vvydier/Projects/Xamarin/CatFactsNinja/CatFactsNinja/bin/Debug/netstandard2.0/ref/CatFactsNinja.dll
+/Users/vvydier/Projects/Xamarin/CatFactsNinja/CatFactsNinja/bin/Debug/netstandard2.0/CatFactsNinja.pdb
+/Users/vvydier/Projects/Xamarin/CatFactsNinja/CatFactsNinja/obj/Debug/netstandard2.0/XamlC.stamp
+/Users/vvydier/Projects/Xamarin/CatFactsNinja/CatFactsNinja/obj/Debug/netstandard2.0/CatFactsNinja.dll
+/Users/vvydier/Projects/Xamarin/CatFactsNinja/CatFactsNinja/obj/Debug/netstandard2.0/ref/CatFactsNinja.dll
+/Users/vvydier/Projects/Xamarin/CatFactsNinja/CatFactsNinja/obj/Debug/netstandard2.0/CatFactsNinja.pdb

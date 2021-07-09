@@ -1,0 +1,59 @@
+/Users/vvydier/Projects/Xamarin/CatFactsNinja/CatFactsNinja.iOS/bin/iPhoneSimulator/Debug/CatFactsNinja.iOS.exe
+/Users/vvydier/Projects/Xamarin/CatFactsNinja/CatFactsNinja.iOS/bin/iPhoneSimulator/Debug/CatFactsNinja.iOS.pdb
+/Users/vvydier/Projects/Xamarin/CatFactsNinja/CatFactsNinja.iOS/bin/iPhoneSimulator/Debug/Newtonsoft.Json.dll
+/Users/vvydier/Projects/Xamarin/CatFactsNinja/CatFactsNinja.iOS/bin/iPhoneSimulator/Debug/Xamarin.Essentials.dll
+/Users/vvydier/Projects/Xamarin/CatFactsNinja/CatFactsNinja.iOS/bin/iPhoneSimulator/Debug/Xamarin.Essentials.pdb
+/Users/vvydier/Projects/Xamarin/CatFactsNinja/CatFactsNinja.iOS/bin/iPhoneSimulator/Debug/Xamarin.Forms.Core.dll
+/Users/vvydier/Projects/Xamarin/CatFactsNinja/CatFactsNinja.iOS/bin/iPhoneSimulator/Debug/Xamarin.Forms.Core.pdb
+/Users/vvydier/Projects/Xamarin/CatFactsNinja/CatFactsNinja.iOS/bin/iPhoneSimulator/Debug/Xamarin.Forms.Platform.dll
+/Users/vvydier/Projects/Xamarin/CatFactsNinja/CatFactsNinja.iOS/bin/iPhoneSimulator/Debug/Xamarin.Forms.Platform.iOS.dll
+/Users/vvydier/Projects/Xamarin/CatFactsNinja/CatFactsNinja.iOS/bin/iPhoneSimulator/Debug/Xamarin.Forms.Platform.iOS.pdb
+/Users/vvydier/Projects/Xamarin/CatFactsNinja/CatFactsNinja.iOS/bin/iPhoneSimulator/Debug/Xamarin.Forms.Xaml.dll
+/Users/vvydier/Projects/Xamarin/CatFactsNinja/CatFactsNinja.iOS/bin/iPhoneSimulator/Debug/Xamarin.Forms.Xaml.pdb
+/Users/vvydier/Projects/Xamarin/CatFactsNinja/CatFactsNinja.iOS/bin/iPhoneSimulator/Debug/ar/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/vvydier/Projects/Xamarin/CatFactsNinja/CatFactsNinja.iOS/bin/iPhoneSimulator/Debug/ca/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/vvydier/Projects/Xamarin/CatFactsNinja/CatFactsNinja.iOS/bin/iPhoneSimulator/Debug/cs/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/vvydier/Projects/Xamarin/CatFactsNinja/CatFactsNinja.iOS/bin/iPhoneSimulator/Debug/da/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/vvydier/Projects/Xamarin/CatFactsNinja/CatFactsNinja.iOS/bin/iPhoneSimulator/Debug/de/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/vvydier/Projects/Xamarin/CatFactsNinja/CatFactsNinja.iOS/bin/iPhoneSimulator/Debug/el/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/vvydier/Projects/Xamarin/CatFactsNinja/CatFactsNinja.iOS/bin/iPhoneSimulator/Debug/es/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/vvydier/Projects/Xamarin/CatFactsNinja/CatFactsNinja.iOS/bin/iPhoneSimulator/Debug/fi/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/vvydier/Projects/Xamarin/CatFactsNinja/CatFactsNinja.iOS/bin/iPhoneSimulator/Debug/fr/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/vvydier/Projects/Xamarin/CatFactsNinja/CatFactsNinja.iOS/bin/iPhoneSimulator/Debug/he/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/vvydier/Projects/Xamarin/CatFactsNinja/CatFactsNinja.iOS/bin/iPhoneSimulator/Debug/hi/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/vvydier/Projects/Xamarin/CatFactsNinja/CatFactsNinja.iOS/bin/iPhoneSimulator/Debug/hr/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/vvydier/Projects/Xamarin/CatFactsNinja/CatFactsNinja.iOS/bin/iPhoneSimulator/Debug/hu/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/vvydier/Projects/Xamarin/CatFactsNinja/CatFactsNinja.iOS/bin/iPhoneSimulator/Debug/id/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/vvydier/Projects/Xamarin/CatFactsNinja/CatFactsNinja.iOS/bin/iPhoneSimulator/Debug/it/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/vvydier/Projects/Xamarin/CatFactsNinja/CatFactsNinja.iOS/bin/iPhoneSimulator/Debug/ja/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/vvydier/Projects/Xamarin/CatFactsNinja/CatFactsNinja.iOS/bin/iPhoneSimulator/Debug/ko/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/vvydier/Projects/Xamarin/CatFactsNinja/CatFactsNinja.iOS/bin/iPhoneSimulator/Debug/ms/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/vvydier/Projects/Xamarin/CatFactsNinja/CatFactsNinja.iOS/bin/iPhoneSimulator/Debug/nb/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/vvydier/Projects/Xamarin/CatFactsNinja/CatFactsNinja.iOS/bin/iPhoneSimulator/Debug/nl/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/vvydier/Projects/Xamarin/CatFactsNinja/CatFactsNinja.iOS/bin/iPhoneSimulator/Debug/pl/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/vvydier/Projects/Xamarin/CatFactsNinja/CatFactsNinja.iOS/bin/iPhoneSimulator/Debug/pt-BR/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/vvydier/Projects/Xamarin/CatFactsNinja/CatFactsNinja.iOS/bin/iPhoneSimulator/Debug/pt/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/vvydier/Projects/Xamarin/CatFactsNinja/CatFactsNinja.iOS/bin/iPhoneSimulator/Debug/ro/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/vvydier/Projects/Xamarin/CatFactsNinja/CatFactsNinja.iOS/bin/iPhoneSimulator/Debug/ru/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/vvydier/Projects/Xamarin/CatFactsNinja/CatFactsNinja.iOS/bin/iPhoneSimulator/Debug/sk/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/vvydier/Projects/Xamarin/CatFactsNinja/CatFactsNinja.iOS/bin/iPhoneSimulator/Debug/sv/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/vvydier/Projects/Xamarin/CatFactsNinja/CatFactsNinja.iOS/bin/iPhoneSimulator/Debug/th/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/vvydier/Projects/Xamarin/CatFactsNinja/CatFactsNinja.iOS/bin/iPhoneSimulator/Debug/tr/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/vvydier/Projects/Xamarin/CatFactsNinja/CatFactsNinja.iOS/bin/iPhoneSimulator/Debug/uk/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/vvydier/Projects/Xamarin/CatFactsNinja/CatFactsNinja.iOS/bin/iPhoneSimulator/Debug/vi/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/vvydier/Projects/Xamarin/CatFactsNinja/CatFactsNinja.iOS/bin/iPhoneSimulator/Debug/zh-HK/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/vvydier/Projects/Xamarin/CatFactsNinja/CatFactsNinja.iOS/bin/iPhoneSimulator/Debug/zh-Hans/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/vvydier/Projects/Xamarin/CatFactsNinja/CatFactsNinja.iOS/bin/iPhoneSimulator/Debug/zh-Hant/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/vvydier/Projects/Xamarin/CatFactsNinja/CatFactsNinja.iOS/bin/iPhoneSimulator/Debug/CatFactsNinja.dll
+/Users/vvydier/Projects/Xamarin/CatFactsNinja/CatFactsNinja.iOS/bin/iPhoneSimulator/Debug/CatFactsNinja.pdb
+/Users/vvydier/Projects/Xamarin/CatFactsNinja/CatFactsNinja.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 12 pro max-14.5/actool/_PartialAppManifest.items
+/Users/vvydier/Projects/Xamarin/CatFactsNinja/CatFactsNinja.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 12 pro max-14.5/actool/_BundleResourceWithLogicalName.items
+/Users/vvydier/Projects/Xamarin/CatFactsNinja/CatFactsNinja.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 12 pro max-14.5/ibtool/_BundleResourceWithLogicalName.items
+/Users/vvydier/Projects/Xamarin/CatFactsNinja/CatFactsNinja.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 12 pro max-14.5/coremlc/_PartialAppManifest.items
+/Users/vvydier/Projects/Xamarin/CatFactsNinja/CatFactsNinja.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 12 pro max-14.5/coremlc/_BundleResourceWithLogicalName.items
+/Users/vvydier/Projects/Xamarin/CatFactsNinja/CatFactsNinja.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 12 pro max-14.5/optimized/
+/Users/vvydier/Projects/Xamarin/CatFactsNinja/CatFactsNinja.iOS/obj/iPhoneSimulator/Debug/CatFactsNinja.iOS.csproj.AssemblyReference.cache
+/Users/vvydier/Projects/Xamarin/CatFactsNinja/CatFactsNinja.iOS/obj/iPhoneSimulator/Debug/CatFactsNinja.iOS.csproj.CoreCompileInputs.cache
+/Users/vvydier/Projects/Xamarin/CatFactsNinja/CatFactsNinja.iOS/obj/iPhoneSimulator/Debug/CatFactsNinja.iOS.csproj.CopyComplete
+/Users/vvydier/Projects/Xamarin/CatFactsNinja/CatFactsNinja.iOS/obj/iPhoneSimulator/Debug/CatFactsNinja.iOS.exe
+/Users/vvydier/Projects/Xamarin/CatFactsNinja/CatFactsNinja.iOS/obj/iPhoneSimulator/Debug/CatFactsNinja.iOS.pdb
