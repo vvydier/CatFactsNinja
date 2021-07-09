@@ -42,5 +42,10 @@ namespace CatFactsNinja
         {
             BreedDetail tappedItem = e.Item as BreedDetail;
         }
+
+        void OnSelectionChanged(object sender, SelectionChangedEventArgs e)
+        {
+            BreedDetail selectedItem = e.CurrentSelection[0] as BreedDetail;
+        }
     }
 }
