@@ -10,6 +10,15 @@ autom4te.cache/
 *.tar.gz
 tarballs/
 test-results/
+*.userprefs
+*.pidb
+*.jar
+*.dll
+*.zip
+obj
+bin
+test-results
+.DS_Store
 
 # Mac bundle stuff
 *.dmg
