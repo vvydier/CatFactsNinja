@@ -12,4 +12,3 @@
 /Users/vvydier/Projects/Xamarin/CatFactsNinja/CatFactsNinja/obj/Debug/netstandard2.0/CatFactsNinja.dll
 /Users/vvydier/Projects/Xamarin/CatFactsNinja/CatFactsNinja/obj/Debug/netstandard2.0/ref/CatFactsNinja.dll
 /Users/vvydier/Projects/Xamarin/CatFactsNinja/CatFactsNinja/obj/Debug/netstandard2.0/CatFactsNinja.pdb
-/Users/vvydier/Projects/Xamarin/CatFactsNinja/CatFactsNinja/obj/Debug/netstandard2.0/MyListViewPage.xaml.g.cs
