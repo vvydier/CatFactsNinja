@@ -14,11 +14,10 @@ To build and run the app:
 *Screenshot of CatFactsNinja app on iOS
 *![Screenshot of CatFactsNinja app on iOS](iOS.png)
 
+*Screenshot of Metrics deails page on iOS
+*![Screenshot of Metrics details page on iOS](metrics-iOS.png)
 
 
-![Screenshot of Metrics details page on iOS](metrics-iOS.png)
 
-
-
-Screenshot of CatFactsNinja app on Android
-![Screenshot of CatFactsNinja app on Android](Android.png)
+*Screenshot of CatFactsNinja app on Android
+*![Screenshot of CatFactsNinja app on Android](Android.png)
