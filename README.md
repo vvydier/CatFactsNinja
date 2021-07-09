@@ -14,6 +14,8 @@ The App has 2 buttons on the main page, one to fetch cat breeds that can be link
 
 Screenshot of CatFactsNinja app on iOS
 ![Screenshot of CatFactsNinja app on iOS](iOS.png)
+
+Screenshot of Metrics deails page on iOS
 ![Screenshot of Metrics details page on iOS](metrics-iOS.png)
 
 Screenshot of CatFactsNinja app on Android
