@@ -9,7 +9,7 @@ To build and run the app:
 * Select CatFactsNinja.Android option next to the play button, click on play (run and build), the app will rrun on the Android simlator of your choice (You can also run it from the Android project as well)
 * If you build from the command line, please use msbuild (or xbuild if you are on an earlier version of Xamarin)
 
-### The App has 2 buttons on the main page, one to fetch cat breeds that can be linked to the details and another button to get the Device Metrics.
+### The App has 2 buttons on the main page, one to fetch cat breeds and another to get the Device Metrics. Each cat breed can be clicked to get additional details of the breed.
 
 ##### Screenshot of CatFactsNinja app on iOS
 ![Screenshot of CatFactsNinja app on iOS](iOS.png)
