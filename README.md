@@ -10,5 +10,8 @@ To build and run the app:
 > 3. Select CatFactsNinja.Android option next to the play button, click on play (run and build), the app will rrun on the Android simlator of your choice (You can also run it from the Android project as well)
 > 4. If you build from the command line, please use msbuild (or xbuild if you are on an earlier version of Xamarin)
 
+Screenshot of CatFactsNinja app on iOS
+![Screenshot of CatFactsNinja app on iOS](iOS.png)
 
-<img
+Screenshot of CatFactsNinja app on Android
+![Screenshot of CatFactsNinja app on Android](Android.png)
